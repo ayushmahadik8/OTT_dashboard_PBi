@@ -15,8 +15,8 @@ This Power BI dashboard provides an in-depth analysis of OTT platform performanc
 2. User Engagement Analysis in AmazonPrimeVideo
   >> Rating and their type,
   >> Country availability,
-  >> movie and t.v show release in month,
-  >>Total show and their movies,
+  >> Movie and t.v show release in month,
+  >> Total show and their movies,
   >>slicers,
 
 ![A1](https://github.com/user-attachments/assets/7a4dd8b9-1f7f-43da-a491-c792a8654b41)
