@@ -1,4 +1,4 @@
-OTT Dashboard
+OTT-Dashboard
 
 Project Overview
 
