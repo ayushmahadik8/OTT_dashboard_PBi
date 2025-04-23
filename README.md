@@ -17,7 +17,7 @@ This Power BI Dashboard provides an in-depth analysis of OTT platform performanc
   >> Country availability,
   >> Movie and t.v show release in month,
   >> Total show and their movies,
-  >>slicers,
+  >> slicers,
 
 ![A1](https://github.com/user-attachments/assets/7a4dd8b9-1f7f-43da-a491-c792a8654b41)
 
