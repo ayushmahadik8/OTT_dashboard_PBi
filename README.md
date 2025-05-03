@@ -12,7 +12,7 @@ This Power BI Dashboard provides an in-depth analysis of OTT platform performanc
 
 ![N1](https://github.com/user-attachments/assets/27e4e123-171a-4fa9-bff4-505656e9f1da)
 
-2. User Engagement Analysis in AmazonPrimeVideo..
+2. User Engagement Analysis in AmazonPrimeVideo...
   >> Rating and their type,
   >> Country availability,
   >> Movie and t.v show release in month,
